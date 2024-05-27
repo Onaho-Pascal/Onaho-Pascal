@@ -13,8 +13,9 @@ I am currently working on some mini projects for DevOps and Cloud and Bioinforma
 * R programming language in the analysis of Genomic and Genetic Data
 * Python Language for DevOps practise
 * Bash scripting 
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Hobbies
+* Reading and Studying
+* Playing video games 🎮
+* Watching movie series and anime 📺
+# 📫 How to reach me:
+My LinkedIn Account: https://www.linkedin.com/in/pascalonaho/
