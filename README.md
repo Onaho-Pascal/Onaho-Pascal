@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://emag.directindustry.com/wp-content/uploads/sites/3/cover-industry-on-the-cloud1.gif)]
 
 # About Me:
 I am a Pharmacist with a first class degree, passionate about DevOps and Cloud and Bioinformatics. I am a versatile and focused individual who will stop at nothing until I achieve my professional and career dreams. In my journey to become a skilled cloud engineer and bioinformatician, I have taken several certification courses and done a lot of mini-projects for both disciplines at entry level. I am looking to further develop my skills in these domains by studing Bioinformatics at the post graduate level, and taking diploma courses for DevOps and Cloud.  
