@@ -27,6 +27,8 @@ I am currently working on some mini projects for DevOps and Cloud and Bioinforma
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaho-pascal&show_icons=true&locale=en" alt="onaho-pascal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaho-pascal&" alt="onaho-pascal" /></p>
+
+
 # My Hobbies
 * Reading and Studying
 * Playing video games 🎮
