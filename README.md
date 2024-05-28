@@ -12,7 +12,12 @@ I am currently working on some mini projects for DevOps and Cloud and Bioinforma
 * DevOps Automation Tools
 * R programming language in the analysis of Genomic and Genetic Data
 * Python Language for DevOps practise
-* Bash scripting 
+* Bash scripting
+
+### Languages:
+| Python3 |
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 # My Hobbies
 * Reading and Studying
 * Playing video games 🎮
