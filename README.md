@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFF7jhgOcrsRQ/article-cover_image-shrink_600_2000/0/1683786168554?e=2147483647&v=beta&t=h6ZpTdZNQ3j3lPoz8aSmu2c2bQhDJ-9SPdv0_gmBYJY)]
-
 
 # About Me:
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*4tE7F0My_RYbNYxHL6I4wQ.gif">
