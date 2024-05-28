@@ -16,7 +16,7 @@ I am currently working on some mini projects for DevOps and Cloud and Bioinforma
 * AWS services at Foundation level
 * DevOps Automation Tools
 * R programming language for the analysis of Genomic and Genetic Data
-* Python Language for DevOps practise
+* Python Language for DevOps practise and Bioinformatics
 * Bash scripting
 
 ### Languages:
