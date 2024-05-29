@@ -36,16 +36,26 @@ Mini Projects for DevOps, Cloud, and Bioinformatics
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onaho-pascal&show_icons=true&locale=en&layout=compact" alt="onaho-pascal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onaho-pascal&show_icons=true&locale=en" alt="onaho-pascal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onaho-pascal&" alt="onaho-pascal" /></p>
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=onaho-pascal&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
+
+---
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=onaho-pascal&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaho-pascal&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
 
 # My Hobbies
 * Reading and Studying
 * Playing video games 🎮
 * Watching movie series and anime 📺
 # 📫 How to reach me:
-My LinkedIn Account: https://www.linkedin.com/in/pascalonaho/
+[My LinkedIn Account](https://www.linkedin.com/in/pascalonaho/)
