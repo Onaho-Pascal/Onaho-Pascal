@@ -1,4 +1,5 @@
-![Naruto resized](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/ce0dcbbb-f00f-46fd-8cd3-2e011e359c8d)
+![DEV and CLOUD](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/0b022bd7-9cf8-40a5-a057-fe7d4ef2d2ac)
+
 
 
 
@@ -11,11 +12,11 @@ On my journey to become a skilled cloud engineer and bioinformatician, I have ta
 
 
 # 🔭 I’m currently working on
-I am currently working on some mini projects for DevOps and Cloud and Bioinformatics. You can view these projects in the following repositories  
-* Bioinformatics Projects: https://github.com/Onaho-Pascal/Bioinformatics-Projects.git
-* Python projects for Bioinformatics and DevOps: https://github.com/Onaho-Pascal/Python-Files.git
-* R projects for Bioinformatics: https://github.com/Onaho-Pascal/R-files.git
-* SDLC CI/CD Projects:
+Mini Projects for DevOps, Cloud, and Bioinformatics
+* [AWS cloud practitioner mini projects](https://github.com/Onaho-Pascal/AWS-Notes.git)
+* [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git)
+* [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)
+* [R projects for Bioinformatics](https://github.com/Onaho-Pascal/R-files.git)
 # 🌱 I’m currently learning    
 * AWS services at Foundation level
 * DevOps Automation Tools
