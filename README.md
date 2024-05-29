@@ -1,4 +1,4 @@
-![Naruto family](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/82a658d0-8c2a-47c6-a994-054b48207d06)
+![DevOps-FAQ](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/58c6bdec-e7c3-4c87-9735-a61084e9c557)
 
 
 
