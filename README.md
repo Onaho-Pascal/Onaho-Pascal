@@ -1,4 +1,4 @@
-![DevOps-FAQ](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/58c6bdec-e7c3-4c87-9735-a61084e9c557)
+![journal-cms_subjects_2021-11_elife-sciences-computational-and-systems-biology-illustration](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/ad764282-a6c3-4b37-9200-fcecaae39ff2)
 
 
 
