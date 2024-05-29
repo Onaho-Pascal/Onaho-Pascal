@@ -1,4 +1,4 @@
-![DEV and CLOUD](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/0b022bd7-9cf8-40a5-a057-fe7d4ef2d2ac)
+![journal-cms_subjects_2021-11_elife-sciences-computational-and-systems-biology-illustration](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/34e8b4da-51b5-425d-98c0-7b40f34ba4e2)
 
 
 
