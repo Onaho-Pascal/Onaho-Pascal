@@ -3,6 +3,7 @@
 
 
 
+
 # Hi, it's me, Pascal 👋
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*4tE7F0My_RYbNYxHL6I4wQ.gif">
 I am a Pharmacist with a first class degree, passionate about DevOps, Cloud and Bioinformatics. I am a versatile and focused individual.
@@ -11,7 +12,8 @@ On my journey to become a skilled cloud engineer and bioinformatician, I have ta
   
 
 # 🔭 I’m currently working on
-Mini Projects for DevOps, Cloud, and Bioinformatics
+Mini Projects for DevOps, Cloud, and Bioinformatics  
+<img align="right" alt="Coding" width="120" src="https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/95b9401d-6e8f-404c-a523-df84b8784c3c">
 * [AWS cloud practitioner mini projects](https://github.com/Onaho-Pascal/AWS-Notes.git)
 * [DevOps Projects](https://github.com/Onaho-Pascal/DevOps-Projects.git)
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git)
