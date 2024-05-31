@@ -13,11 +13,10 @@ On my journey to become a skilled cloud engineer and bioinformatician, I have ta
 
 # 🔭 I’m currently working on
 Mini Projects for DevOps, Cloud, and Bioinformatics  
-<img align="right" alt="Coding" width="120" src="https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/95b9401d-6e8f-404c-a523-df84b8784c3c">
-* [AWS cloud practitioner mini projects](https://github.com/Onaho-Pascal/AWS-Notes.git)
-* [DevOps Projects](https://github.com/Onaho-Pascal/DevOps-Projects.git)
-* [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git)
-* [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)
+* [AWS cloud practitioner mini projects](https://github.com/Onaho-Pascal/AWS-Notes.git)   ☁️
+* [DevOps Projects](https://github.com/Onaho-Pascal/DevOps-Projects.git)                   ♾️
+* [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
+* [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
 * [R projects for Bioinformatics](https://github.com/Onaho-Pascal/R-files.git)
   
 # 🌱 I’m currently learning    
