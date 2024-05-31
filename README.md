@@ -8,8 +8,7 @@
 I am a Pharmacist with a first class degree, passionate about DevOps, Cloud and Bioinformatics. I am a versatile and focused individual.
 On my journey to become a skilled cloud engineer and bioinformatician, I have taken several certification courses and done a lot of mini-projects for both disciplines at entry level and I am looking to further develop my skills in these domains.  
   
-  Here is an [article](https://medium.com/@pascalonaho/a-profound-epiphany-my-journey-to-merge-pharmaceutical-sciences-bioinformatics-and-devops-c1c0d8da2a6d) where I expressed my dreams to merge the realms of Pharmaceutical sciences, DevOps and Clouds, and Bioinformatics.
-
+  
 
 # 🔭 I’m currently working on
 Mini Projects for DevOps, Cloud, and Bioinformatics
