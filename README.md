@@ -12,14 +12,14 @@ On my journey to become a skilled cloud engineer and bioinformatician, I have ta
   
 
 # 🔭 I’m currently working on
-Mini Projects for DevOps, Cloud, and Bioinformatics  
+Mini Projects for DevOps, Cloud, and Bioinformatics:  
 * [AWS cloud practitioner mini projects](https://github.com/Onaho-Pascal/AWS-Notes.git)   ☁️
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
 * [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
 * [R projects for Bioinformatics](https://github.com/Onaho-Pascal/R-files.git)
   
 # 🌱 I’m currently learning    
-* AWS services at Foundation level
+* AWS services at Foundational level
 * DevOps Automation Tools
 * R programming language for the analysis of Genomic and Genetic Data
 * Python Language for DevOps practise and Bioinformatics
