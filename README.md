@@ -6,7 +6,7 @@
 
 # Hello, it's me, Pascal 👋
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*4tE7F0My_RYbNYxHL6I4wQ.gif">
-I am a Pharmacist with a first class degree, passionate about DevOps, Cloud and Bioinformatics. I am a versatile and focused individual.
+I am a Pharmacist with a first class degree, passionate about DevOps, AWS Cloud and Bioinformatics. I am a versatile and focused individual.
 On my journey to become a skilled cloud engineer and bioinformatician, I have taken several certification courses and done a lot of mini-projects for both disciplines at entry level and I am looking to further develop my skills in these domains.  
   
   
