@@ -17,7 +17,7 @@ Mini Projects for DevOps, Cloud, and Bioinformatics:
 * [AWS cloud practitioner mini projects](https://github.com/Onaho-Pascal/AWS-Notes.git)   ☁️
 * [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
 * [R projects for Bioinformatics](https://github.com/Onaho-Pascal/R-files.git)
-  
+
 # 🌱 I’m currently learning    
 * AWS services at Foundational level
 * DevOps Automation Tools
