@@ -40,21 +40,10 @@ Mini Projects for DevOps, Cloud, and Bioinformatics:
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Onaho-Pascal&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
----
 
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=onaho-pascal&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 
----
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=onaho-pascal&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaho-pascal&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
 
 # My Hobbies
 * Reading and Studying 📖 😎
