@@ -43,15 +43,15 @@ Mini Projects for DevOps, Cloud, and Bioinformatics:
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=onaho-pascal&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaho-pascal&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onaho-Pascal&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
  ---
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=onaho-pascal&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Onaho-Pascal&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 ---
