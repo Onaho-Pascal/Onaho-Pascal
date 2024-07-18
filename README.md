@@ -40,7 +40,22 @@ Mini Projects for DevOps, Cloud, and Bioinformatics:
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Onaho-Pascal&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
+---
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=onaho-pascal&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaho-pascal&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=onaho-pascal&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
   
 
 
