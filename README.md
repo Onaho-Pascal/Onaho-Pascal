@@ -6,14 +6,14 @@
 
 # Hello, it's me, Pascal 👋
 
-I am a Pharmacist with a strong passion for Biotechnology, Bioinformatics, DevOps, and AWS Cloud As a versatile and focused individual, I am committed to continuously growing in these fields. On my journey to becoming a skilled cloud engineer and bioinformatician, I have completed several certification courses and worked on numerous entry-level mini-projects in both disciplines. I am eager to further develop my expertise in these domains, particularly at the intersection of cloud technologies and biotechnology, to drive innovation and solve complex biological challenges.
+I am a Pharmacist with a strong passion for Biotechnology, Bioinformatics, and AWS Cloud As a versatile and focused individual, I am committed to continuously growing in these fields. On my journey to becoming a skilled cloud engineer and bioinformatician, I have completed several certification courses and worked on numerous entry-level mini-projects in both disciplines. I am eager to further develop my expertise in these domains, particularly at the intersection of cloud technologies and biotechnology, to drive innovation and solve complex biological challenges.
   
   
 
 # 🔭 I’m currently working on
 Mini Projects for DevOps, Cloud, and Bioinformatics:  
-* [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
+* [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
 * [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
 
 
