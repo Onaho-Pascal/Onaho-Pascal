@@ -14,7 +14,6 @@ I am a Pharmacist with a strong passion for Biotechnology, Bioinformatics, DevOp
 Mini Projects for DevOps, Cloud, and Bioinformatics:  
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
-* [AWS cloud practitioner mini projects](https://github.com/Onaho-Pascal/AWS-Notes.git)   ☁️
 * [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
 
 
