@@ -11,19 +11,19 @@ I am a Pharmacist with a strong passion for Biotechnology, Bioinformatics, and A
   
 
 # 🔭 I’m currently working on
-Mini Projects for DevOps, Cloud, and Bioinformatics:  
+Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:  
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
 * [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
 
 
 # 🌱 I’m currently learning    
-* AWS services at Foundational level
-* DevOps Automation Tools
-* R programming language for the analysis of Genomic and Genetic Data
+*R programming language for the analysis of Genomic and Genetic Data
 * Python Language for DevOps practise and Bioinformatics
 * Bash scripting
-
+* AWS services at Foundational level
+* DevOps Automation Tools
+  
 ### Skills
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
