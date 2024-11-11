@@ -18,7 +18,8 @@ Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:
 
 
 # 🌱 I’m currently learning    
-*R programming language for the analysis of Genomic and Genetic Data
+
+* R programming language for the analysis of Genomic and Genetic Data
 * Python Language for DevOps practise and Bioinformatics
 * Bash scripting
 * AWS services at Foundational level
