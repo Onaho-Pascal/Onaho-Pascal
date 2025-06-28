@@ -6,7 +6,7 @@
 
 # Hello, it's me, Pascal 👋
 
-I am a Pharmacist with a strong passion for Bioinformatics, Biomedical Engineering, and AWS Cloud. As a versatile and focused individual, I am committed to continuously growing in these fields. On my journey to becoming a skilled cloud engineer and bioinformatician, I have completed several certification courses and worked on numerous entry-level mini-projects in both disciplines. I am eager to further develop my expertise in these domains, particularly at the intersection of cloud technologies and biotechnology, to drive innovation and solve complex biological challenges.
+I am a Pharmacist with a strong passion for Bioinformatics, Biotechnology, and AWS Cloud. As a versatile and focused individual, I am committed to continuously growing in these fields. On my journey to becoming a skilled cloud engineer and bioinformatician, I have completed several certification courses and worked on numerous entry-level mini-projects in both disciplines. I am eager to further develop my expertise in these domains, particularly at the intersection of cloud technologies and biotechnology, to drive innovation and solve complex biological challenges.
   
   
 
