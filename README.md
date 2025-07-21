@@ -15,16 +15,18 @@ Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
+* [Python and R: Bioinformatics Project Comparison](https://github.com/Onaho-Pascal/Python-R-project-comparisons.git) 💻🖥️🖱️
 * [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
+
 
 
 # 🌱 I’m currently learning    
 
-* R programming language for the analysis of Genomic and Genetic Data.
+* R programming language for Genetic Data Analysis.
 * Python Language for DevOps practise and Bioinformatics.
-* Bash scripting.
-* AWS services at Foundational level.
-* DevOps Automation Tools.
+* Bash scripting for Computational Biology Pipelines
+* Foundational Knowledge of AWS Cloud Services
+* DevOps Automation Tools, and buildign capacity in Continuous integration/deployment (CI/CD) pipelines and infrastructure as code to support reproducible and collaborative scientific research
   
 ### Skills
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
