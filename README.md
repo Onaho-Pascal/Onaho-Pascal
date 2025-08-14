@@ -65,20 +65,5 @@ Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:
 
 
 
-# My Hobbies
-* Reading and Studying 📖 😎
-* Playing video games 🎮
-  - Tekken
-  - Mortal Kombat
-  - Brawlhalla
-  - Streetfighter
-  - Multiversus
-* Watching movie series and anime 📺
-* Playing the Piano 🎹
-  - Mozart
-  - Beethoven
-  - Chopin
-  - Rachmaninoff
-  - Lizst
 # 📫 How to reach me:
 [My LinkedIn Account](https://www.linkedin.com/in/pascalonaho/)
