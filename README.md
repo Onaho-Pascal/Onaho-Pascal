@@ -27,6 +27,7 @@ Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:
 * Bash scripting for Computational Biology Pipelines
 * Foundational Knowledge of AWS Cloud Services
 * DevOps Automation Tools, and buildign capacity in Continuous integration/deployment (CI/CD) pipelines and infrastructure as code to support reproducible and collaborative scientific research
+* Rust programing language for Blockchain + Biotechnology integration
   
 ### Skills
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
