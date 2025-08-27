@@ -16,7 +16,7 @@ Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
 * [Python and R: Bioinformatics Project Comparison](https://github.com/Onaho-Pascal/Python-R-project-comparisons.git) 💻🖥️🖱️
-* [Python projects for Bioinformatics and DevOps](https://github.com/Onaho-Pascal/Python-Files.git)  🐍
+
 
 
 
