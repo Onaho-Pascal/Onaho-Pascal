@@ -1,15 +1,6 @@
 ![journal-cms_subjects_2021-11_elife-sciences-computational-and-systems-biology-illustration](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/34e8b4da-51b5-425d-98c0-7b40f34ba4e2)
 
 
-
-
-
-# Hello, it's me, Pascal 👋
-
-I am a Pharmacist with a strong passion for Bioinformatics, Biotechnology, and AWS Cloud. As a versatile and focused individual, I am committed to continuously growing in these fields. On my journey to becoming a skilled cloud engineer and bioinformatician, I have completed several certification courses and worked on numerous entry-level mini-projects in both disciplines. I am eager to further develop my expertise in these domains, particularly at the intersection of cloud technologies and biotechnology, to drive innovation and solve complex biological challenges.
-  
-  
-
 # 🔭 I’m currently working on
 Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:  
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
@@ -18,17 +9,6 @@ Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:
 * [Python and R: Bioinformatics Project Comparison](https://github.com/Onaho-Pascal/Python-R-project-comparisons.git) 💻🖥️🖱️
 
 
-
-
-# 🌱 I’m currently learning    
-
-* R programming language for Genetic Data Analysis.
-* Python Language for DevOps practise and Bioinformatics.
-* Bash scripting for Computational Biology Pipelines
-* Foundational Knowledge of AWS Cloud Services
-* DevOps Automation Tools, and buildign capacity in Continuous integration/deployment (CI/CD) pipelines and infrastructure as code to support reproducible and collaborative scientific research
-* Rust programing language for Blockchain + Biotechnology integration
-  
 ### Skills
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
