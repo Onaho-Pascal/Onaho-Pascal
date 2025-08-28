@@ -2,7 +2,7 @@
 
 
 # 🔭 I’m currently working on
-Mini Projects  Bioinformatics, Biotechnology, and Cloud engineering:  
+Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-Bioinformatics integration:  
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
