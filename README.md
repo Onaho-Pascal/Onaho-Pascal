@@ -4,7 +4,7 @@
 # 🔭 I’m currently working on
 Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-Bioinformatics integration:  
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
-* [Omics Biohackathon project on Machine Learning in Sickle Cell Disease](https://github.com/omicscodeathon/mlscd)
+* [Omics Bio-hackathon project on Machine Learning in Sickle Cell Disease](https://github.com/omicscodeathon/mlscd)
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
 * [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
 * [Python and R: Bioinformatics Project Comparison](https://github.com/Onaho-Pascal/Python-R-project-comparisons.git) 💻🖥️🖱️
