@@ -1,7 +1,7 @@
 ![journal-cms_subjects_2021-11_elife-sciences-computational-and-systems-biology-illustration](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/34e8b4da-51b5-425d-98c0-7b40f34ba4e2)
 
 
-# 🔭 I’m currently working on
+# 🔭 I’m currently working on...
 Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-Bioinformatics integration:  
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
 * [Omics Bio-hackathon project on Machine Learning in Sickle Cell Disease](https://github.com/omicscodeathon/mlscd)
