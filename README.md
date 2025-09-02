@@ -1,6 +1,9 @@
 ![journal-cms_subjects_2021-11_elife-sciences-computational-and-systems-biology-illustration](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/34e8b4da-51b5-425d-98c0-7b40f34ba4e2)
 
 
+# Who I am
+I am a Pharmacist with hands-on experience in bioinformatics and computational biology, passionate about applying data-driven approaches to understand disease mechanisms and improve healthcare. My academic and research interests lie in biotechnology, bioinformatics, and precision medicine, with a particular focus on sickle cell disease and infectious disease genomics.  
+Currently, I am preparing for graduate studies in Biotechnology and Bioinformatics, while also pursuing a side quest: exploring how blockchain technology can be integrated into bioinformatics workflows for genomic data integrity, provenance tracking, and consent-based access.
 # 🔭 I’m currently working on...
 Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-Bioinformatics integration:  
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
