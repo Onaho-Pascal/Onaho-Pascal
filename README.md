@@ -4,7 +4,7 @@
 # Who I am
 I am a Pharmacist with hands-on experience in bioinformatics and computational biology, passionate about applying data-driven approaches to understand disease mechanisms and improve healthcare. My academic and research interests lie in biotechnology, bioinformatics, and precision medicine, with a particular focus on sickle cell disease and infectious disease genomics.  
 Currently, I am preparing for graduate studies in Biotechnology and Bioinformatics, while also pursuing a side quest: exploring how blockchain technology can be integrated into bioinformatics workflows for genomic data integrity, provenance tracking, and consent-based access.
-# 🔭 I’m currently working on...
+# 🔭 Featured Projects (Ongoing and Completed)
 Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-Bioinformatics integration:  
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
 * [Omics Bio-hackathon project on Machine Learning in Sickle Cell Disease](https://github.com/omicscodeathon/mlscd)
