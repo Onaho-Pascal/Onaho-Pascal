@@ -7,7 +7,7 @@ Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-
 * [Sickle Cell Research Project](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
 * [Omics Bio-hackathon project on Machine Learning in Sickle Cell Disease](https://github.com/omicscodeathon/mlscd)
 * [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
-* [Bioinformatics Projects](https://github.com/Onaho-Pascal/Bioinformatics-Projects.git) 🧬 📊
+
 
 
 
