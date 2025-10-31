@@ -8,6 +8,7 @@ Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-
  2. [Machine Learning approach to detect severity in Sickle Cell Disease: 2025 Omics Codeathon](https://github.com/omicscodeathon/mlscd)
  3. [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
  4. [Protein Sequence Alignment](https://github.com/Onaho-Pascal/Bioinformatics-Projects)
+ 5. [Sickle Cell Mutation Embedding Analysis](https://github.com/Onaho-Pascal/Sickle-Cell-Mutation-Embedding-Analysis.git)
 
 
 
