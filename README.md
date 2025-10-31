@@ -1,3 +1,6 @@
+
+Bioinformatician | Primer Designer | Baby Rustacean 🦀 |Anime Nerd  
+**I am not good at what I do. I am GREAT at what I do.**
 ![journal-cms_subjects_2021-11_elife-sciences-computational-and-systems-biology-illustration](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/34e8b4da-51b5-425d-98c0-7b40f34ba4e2)
 
 
