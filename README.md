@@ -40,7 +40,9 @@ Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-
 
 
 ---
-   [![trophy](https://github-profile-trophy.vercel.app/?username=Onaho-Pascal&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 ---
 
