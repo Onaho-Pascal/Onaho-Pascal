@@ -7,12 +7,22 @@ Bioinformatician | Primer Designer | Baby Rustacean 🦀 | Anime Nerd
 
 # 🔭 Featured Projects (Ongoing and Completed)
 Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-Bioinformatics integration:  
- 1. [Non-hbf genetic expressions in Sickle Cell](https://github.com/Onaho-Pascal/Sickle-Cell-Research). 🩸🧬
- 2. [Machine Learning approach to detect severity in Sickle Cell Disease: 2025 Omics Codeathon](https://github.com/omicscodeathon/mlscd)
- 3. [HackBio Tasks for Bioinformatics (R and Machine Learning)](https://github.com/Onaho-Pascal/Hackbio-Internship)
- 4. [Protein Sequence Alignment](https://github.com/Onaho-Pascal/Bioinformatics-Projects)
- 5. [Sickle Cell Mutation Embedding Analysis](https://github.com/Onaho-Pascal/Sickle-Cell-Mutation-Embedding-Analysis.git)
+## 🧬 Bioinformatics & Machine Learning Portfolio  
 
+Here’s a selection of my recent projects spanning transcriptomics, genomics, and computational modeling — all focused on Sickle Cell Disease (SCD) and bioinformatics applications.
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Non-HbF Genetic Expressions in Sickle Cell**](https://github.com/Onaho-Pascal/Sickle-Cell-Research) | RNA-Seq pipeline identifying non-HbF gene signatures modulated by Hydroxyurea in SCD; includes DESeq2 analysis, GO enrichment, and visualization. | R · Bioconductor · DESeq2 |
+| [**ML Approach to Detect Severity in Sickle Cell Disease — 2025 Omics Codeathon**](https://github.com/omicscodeathon/mlscd) | Deep learning model trained on multi-omics and clinical datasets to classify SCD severity; integrates data preprocessing, feature engineering, and interpretability. | Python · PyTorch · Biopython |
+| [**HackBio Bioinformatics Tasks (R & Machine Learning)**](https://github.com/Onaho-Pascal/Hackbio-Internship) | Series of curated tasks covering transcriptomics, data wrangling, and supervised learning; demonstrates reproducible analysis and team collaboration. | R · DESeq2 · Bioconductor |
+| [**Protein Sequence Alignment**](https://github.com/Onaho-Pascal/Bioinformatics-Projects) | Comparative protein sequence alignment using global/local algorithms; integrated with Galaxy workflows, MEGA phylogeny, and Weka feature extraction. | Galaxy · Weka · MEGA |
+| [**Sickle Cell Mutation Embedding Analysis**](https://github.com/Onaho-Pascal/Sickle-Cell-Mutation-Embedding-Analysis) | Vectorized representations of SCD mutations using k-mer embedding and dimensionality reduction; explores genotype-phenotype clustering. | Python · Biopython |
+
+---
+
+⭐ *Each repository highlights practical applications of computational biology, from RNA-seq pipelines to ML-driven disease modeling, demonstrating a consistent focus on genomics, precision medicine, and reproducible research.*
+----
 
 
 <!-- Snake Game Repo View -->
