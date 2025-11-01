@@ -1,5 +1,5 @@
 
-Bioinformatician | Primer Designer | Baby Rustacean 🦀 |Anime Nerd  
+Bioinformatician | Primer Designer | Baby Rustacean 🦀 | Anime Nerd  
 **My goal is not merely to be good at what I do, but to be GREAT at what I do. I am willing to learn, more and more.**
 ![journal-cms_subjects_2021-11_elife-sciences-computational-and-systems-biology-illustration](https://github.com/Onaho-Pascal/Onaho-Pascal/assets/156159318/34e8b4da-51b5-425d-98c0-7b40f34ba4e2)
 
