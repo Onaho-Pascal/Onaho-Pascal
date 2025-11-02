@@ -9,7 +9,7 @@ Bioinformatician | Primer Designer | Baby Rustacean 🦀 | Anime Nerd
 Mini Projects  Bioinformatics, Biotechnology, Cloud engineering, and Blockchain-Bioinformatics integration:  
 ## 🧬 Bioinformatics & Machine Learning Portfolio  
 
-Here’s a selection of my recent projects spanning transcriptomics, genomics, and computational modeling — all focused on Sickle Cell Disease (SCD) and bioinformatics applications.
+Here’s a selection of my recent projects spanning transcriptomics, genomics, and computational modeling, all focused on Sickle Cell Disease (SCD) and bioinformatics applications.
 
 | Project | Description | Stack |
 |---|---|---|
