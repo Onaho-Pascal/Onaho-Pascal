@@ -20,7 +20,9 @@ Here’s a selection of my recent projects spanning transcriptomics, genomics, a
 | [**Protein Sequence Alignment**](https://github.com/Onaho-Pascal/Bioinformatics-Projects) | Comparative protein sequence alignment using global/local algorithms; integrated with Galaxy workflows, MEGA phylogeny, and Weka feature extraction. | Galaxy · Weka · MEGA |
 | [**Sickle Cell Mutation Embedding Analysis**](https://github.com/Onaho-Pascal/Sickle-Cell-Mutation-Embedding-Analysis) | Vectorized representations of SCD mutations using k-mer embedding and dimensionality reduction; explores genotype-phenotype clustering. | Python · Biopython |
 | [**Computational ADME Profiling for Small Molecules**](https://github.com/Onaho-Pascal/Drug-Likeness-and-ADME-Screening-Dashboard/tree/main/ADMET%20Profiling%20-%20In%20Silico) | End-to-end cheminformatics pipeline for predicting ADME properties of candidate compounds; includes SMILES parsing, RDKit descriptor generation, ML-based ADMET prediction, and modular result aggregation. | Python · RDKit · scikit-learn |   
-| [**The Bio-Book of Jargons**](https://github.com/Onaho-Pascal/Bio-Book-of-Jargons.git) | Authored a book that contains a glossary of over 200 terms used across bioinformatics, biotechnology, and synthetic biology fields. | NCBI, PubMed Databases
+| [**The Bio-Book of Jargons**](https://github.com/Onaho-Pascal/Bio-Book-of-Jargons.git) | Authored a book that contains a glossary of over 200 terms used across bioinformatics, biotechnology, and synthetic biology fields. | NCBI, PubMed Databases  
+| [**FASTA Document Analysis Pipeline**](https://github.com/Onaho-Pascal/DNA-Sequence-Analysis-Pipeline.git) | Constructed some python scripts that analyse FASTA files and parsed them into a single bash script for smooth execution. | Python, Bash.
+
 
 ---
 
