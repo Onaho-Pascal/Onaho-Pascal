@@ -71,6 +71,14 @@ Here’s a selection of my recent projects spanning transcriptomics, genomics, a
 
 ---
 
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onaho-Pascal&layout=compact&theme=vision-friendly-dark)
+
+---
+
   
 <p align="center">
   <img width="900" height="220" src="https://streak-stats.demolab.com?user=Onaho-Pascal&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
