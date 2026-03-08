@@ -75,7 +75,7 @@ Here’s a selection of my recent projects spanning transcriptomics, genomics, a
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onaho-Pascal&layout=compact&theme=vision-friendly-dark)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=onaho-Pascal&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
 
