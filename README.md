@@ -73,9 +73,11 @@ Here’s a selection of my recent projects spanning transcriptomics, genomics, a
 
 ## GitHub Stats
 
-![GitHub stats](https://mystats-eight.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark)
+## GitHub Stats (Experiment)
 
-![Top Languages](https://mystats-eight.vercel.app/api/top-langs/?username=Onaho-Pascal&layout=compact&theme=vision-friendly-dark)>
+![GitHub Stats](https://vercel.com/onaho-pascals-projects/my_stats/4oMy8KU42NgR4UXynT6sBX3A1PK2/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark)
+
+![Top Languages](https://vercel.com/onaho-pascals-projects/my_stats/4oMy8KU42NgR4UXynT6sBX3A1PK2/api/top-langs/?username=Onaho-Pascal&layout=compact&theme=vision-friendly-dark)
 ---
 
   
