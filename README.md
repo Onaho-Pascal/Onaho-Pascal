@@ -71,10 +71,9 @@ Here’s a selection of my recent projects spanning transcriptomics, genomics, a
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onaho-Pascal&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark" height="200">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Onaho-Pascal&layout=compact&theme=vision-friendly-dark" height="200">
 </p>
-
 
 ---
 
