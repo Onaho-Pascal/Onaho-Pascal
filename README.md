@@ -65,15 +65,9 @@ Here’s a selection of my recent projects spanning transcriptomics, genomics, a
 
 ---
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Onaho-Pascal&theme=radical)
-
----
-
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark&count_private=true)
+![Your GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=onaho-Pascal&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
